@@ -19,7 +19,8 @@ let blue = "\u{001B}[34m"
 let reset = "\u{001B}[0m"
 
 
-let fiveLetterWords = ["apple", "brick", "chair", "dance", "eagle", "flame", "grain", "horse", "jelly", "knife", "lemon", "magic", "novel", "ocean", "peach", "quiet", "razor", "shine", "tiger", "unity"]
+let fiveLetterWords = ["apple", "brick", "chair", "dance", "eagle", "flame", "grain", "horse", "jelly", "knife", "lemon", "magic", "novel", "ocean", "peach", "quiet", "razor", "shine", "tiger", "unity", "adore", "angle", "beach", "blend", "bliss", "bloom", "boost", "breeze", "bride", "brush", "burst", "carry", "catch", "cease", "charm", "claim", "clash", "climb", "clown", "couch", "crane", "craze", "cream", "creep", "crown", "curve", "dealt", "doubt", "draft", "drift", "elbow", "enter", "faint", "ferry", "fiber", "flock", "focus", "forge", "frame", "gauge", "giant", "glare", "glide", "grape", "grasp", "grill", "grove", "habit", "hatch", "haven", "hinge", "hover", "icing", "index", "input", "irony", "jolly", "latch", "liver", "lobby", "lodge", "loyal", "march", "medal", "merit", "meter", "might", "mirth", "mixer", "model", "motel", "motto", "noble", "orbit", "panel", "parry", "pause", "phase", "plush", "pride", "prize", "quilt", "reach", "rebel", "reign", "renew", "rigid", "river", "roast", "scent", "scout", "shear", "shelf", "shift", "slide", "spine", "spoon", "stack", "stalk", "stare", "straw", "stunt", "swirl", "toast",
+    "track", "trail", "vivid", "whale", "wrath", "yield"]
 
 
 
